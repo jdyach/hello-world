@@ -1,2 +1,4 @@
 # hello-world
-Following another tutorial
+Following another tutorial.
+
+I am becoming familiar with git processes.
